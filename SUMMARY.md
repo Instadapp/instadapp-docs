@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Documentation](README.md)
-* [Documentation](documentation.md)
+* [dsa-connect](documentation.md)
 * [Connectors](connectors.md)
 

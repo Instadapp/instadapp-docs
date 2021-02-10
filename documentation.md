@@ -4,7 +4,7 @@ description: >-
   to interact with Instadapp DSA Infrastructure.
 ---
 
-# Documentation
+# dsa-connect
 
 ## Installation
 
